@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on My New Hugo Site</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jun 2020 14:58:49 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon Premier Article</title>
+      <link>http://localhost:1313/blog/mon-premier-article/</link>
+      <pubDate>Wed, 10 Jun 2020 14:58:49 +0200</pubDate>
+      <guid>http://localhost:1313/blog/mon-premier-article/</guid>
+      <description>&lt;p&gt;Bonjour ceci est mon premier article !&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
