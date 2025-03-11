@@ -7,3 +7,6 @@
 [submodule "john_doe_coder_theme/themes/hugo-coder"]
 	path = john_doe_coder_theme/themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "eddiewebb/themes/hugo-resume"]
+	path = eddiewebb/themes/hugo-resume
+	url = https://github.com/eddiewebb/hugo-resume.git
