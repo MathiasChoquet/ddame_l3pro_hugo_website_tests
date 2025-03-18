@@ -1,5 +1,5 @@
 title = "Eddie Webbinaro"
-baseURL = "https://example.com"
+baseURL = "https://mathiaschoquet.github.io/ddame_l3pro_hugo_website_tests/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
