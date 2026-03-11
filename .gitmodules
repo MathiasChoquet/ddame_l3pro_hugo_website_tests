@@ -10,3 +10,6 @@
 [submodule "eddiewebb/themes/hugo-resume"]
 	path = eddiewebb/themes/hugo-resume
 	url = https://github.com/eddiewebb/hugo-resume.git
+[submodule "hugo-theme-gallery-test/themes/hugo-theme-gallery"]
+	path = hugo-theme-gallery-test/themes/hugo-theme-gallery
+	url = https://github.com/nicokaiser/hugo-theme-gallery.git
