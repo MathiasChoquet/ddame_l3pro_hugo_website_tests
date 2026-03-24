@@ -32,7 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.128.0
-      HUGO_PROJECT_DIR: eddiewebb
+      HUGO_PROJECT_DIR: john_doe_coder_theme
 
     steps:
       - name: Install Hugo CLI
