@@ -6,7 +6,7 @@ PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
 enableGitInfo = false
-defaultContentLanguage = "fr"
+defaultContentLanguage = "en"
 
 [params]
 address = "Rollinsford, NH"

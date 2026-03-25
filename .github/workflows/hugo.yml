@@ -32,7 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.128.0
-      HUGO_PROJECT_DIR: john_doe_coder_theme
+      HUGO_PROJECT_DIR: eddiewebb
 
     steps:
       - name: Install Hugo CLI
@@ -54,7 +54,7 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
-          HUGO_PROJECT_DIR: john_doe_coder_theme
+          HUGO_PROJECT_DIR: eddiewebb
         working-directory: ./${{ env.HUGO_PROJECT_DIR }}/
         run: |
           hugo \
